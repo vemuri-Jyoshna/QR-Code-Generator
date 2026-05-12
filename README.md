@@ -4,6 +4,7 @@ A simple and responsive QR Code Generator built using HTML, CSS, and JavaScript.
 🚀 Features
 
 
+
 Generate QR codes instantly
 
 
@@ -14,6 +15,8 @@ Generate QR codes instantly
 
 
 -> Download generated QR code
+
+
 
 
 Easy to use
@@ -30,8 +33,8 @@ Easy to use
 
 * JavaScript
 
+* QR Code API / Library
 
-QR Code API / Library
 
 
 
@@ -48,6 +51,8 @@ QR Code API / Library
 
 
 4.Download or scan the QR code.
+
+
 
 
 💡 Future Improvements
